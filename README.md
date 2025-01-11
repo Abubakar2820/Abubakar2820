@@ -10,7 +10,7 @@ I specialize in using tools like **Python, SQL, Power BI and Excel** to transfor
 ## 🚀 Skills & Expertise  
 
 - **Programming & Analysis**: Python (Pandas, NumPy), SQL, Excel  
-- **Data Visualization**: Power BI, Matplotlib, Seaborn  
+- **Data Visualization**: Power BI, Matplotlib and Seaborn  
 - **Business Intelligence**: DAX, Power Query, KPI development  
 - **Data Handling**: Data cleaning, wrangling, and preparation  
 - **Soft Skills**: Problem-solving, storytelling with data, critical thinking  

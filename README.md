@@ -1,7 +1,7 @@
 # Hello! 👋 Welcome to my GitHub  
-### 📊 Data Analyst | Turning Complex Data into Clear Solutions  
+## About Me 
 
-Hi, I'm Abubakar, a **results-driven Data Analyst** passionate about using data to uncover insights and drive business decisions. My GitHub is a curated portfolio of data analysis projects, showcasing my ability to work with diverse datasets, create impactful visualizations, and solve real-world challenges.  
+My name is Abubakar, a **results-driven Data Analyst** passionate about using data to uncover insights and drive business decisions. My GitHub is a curated portfolio of data analysis projects, showcasing my ability to work with diverse datasets, create impactful visualizations, and solve real-world challenges.  
 
 I specialize in using tools like **Python, SQL, Power BI and Excel** to transform raw data into actionable insights, focusing on delivering measurable value through data-driven strategies.  
 

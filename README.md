@@ -15,7 +15,7 @@ I specialize in using tools like **Python, SQL, Power BI and Excel** to transfor
 - **Data Handling**: Data cleaning, wrangling, and preparation  
 - **Soft Skills**: Problem-solving, storytelling with data, critical thinking  
 
-With a strong foundation in **data analysis, statistical methods, and visualization**, I bring a comprehensive approach to identifying trends and optimizing decision-making processes.
+My strong foundation in data analysis, statistical methods, and visualization enables me to take a comprehensive approach to identifying trends and optimizing decision-making processes.
 
 ---
 
